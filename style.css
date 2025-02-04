@@ -48,11 +48,45 @@
 
 .footer{
     background-color: black;
-    margin left: 85px;
-    height: 70px;
+    height: 100px;
     padding-top: 15px;
     display: flex;
     color: aliceblue;
-   
 }
+
+.list{
+    display: flex;
+}
+
+.top-card{
+
+}
+ .top-card img{
+    height: 100%;
+    width: 100%;
+ }
+.red{
+    background-color: #ff0000;
+    width: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    font-family:sans-serif;
+}
+
+.sost{
+    background-color: #008000;
+    width: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: white;
+    font-family:sans-serif;
+    
+}
+
+.botton{
+    display: flex;
+}
+
+
 
