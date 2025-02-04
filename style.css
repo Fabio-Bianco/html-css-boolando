@@ -7,3 +7,19 @@
     box-sizing: border-box;
 }
 
+.contenitore{
+    display: flex;
+    flex-wrap: wrap;
+    height: 70px;
+    background-color: #ff6900;
+}
+
+.dub{
+    margin-left: 100px;
+    width: 160px;
+    display: flex;
+    align-items: center;
+    font-family: sans-serif; 
+    color: white;
+    justify-content: space-between;
+}
